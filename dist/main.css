@@ -25,3 +25,25 @@ body {
     background-repeat: no-repeat;
     background-position: center;
 }
+.container {
+    background: cornsilk;
+    width: 600px;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    
+}
+td {
+   border: burlywood 1px solid;
+   text-align: center;
+}
+.container2 {
+    background: cornsilk;
+    width: 600px;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    
+}
